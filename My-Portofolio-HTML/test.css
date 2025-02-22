@@ -1,0 +1,10 @@
+div {
+    background-color: blue;
+
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font size: 15px;
+    }
+}
